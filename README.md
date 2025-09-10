@@ -28,4 +28,4 @@ Full‑stack web developer passionate about building robust, user‑friendly app
 
 ### 📂 Portfolio & Contact
 - Portfolio: [krabhi.me](https://krabhi.me)  
-- Email: [abhi@krabhi.me](mailto:abhishek33gl@gmail.com)
+- Email: [abhishek33gl@gmail.com](mailto:abhishek33gl@gmail.com)
