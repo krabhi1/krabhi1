@@ -13,7 +13,7 @@ Full‑stack web developer passionate about building robust, user‑friendly app
 
 ### 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=ts,cpp,java,postgres,tailwind,cloudflare,aws,nextjs,remix,prisma,python,linux,docker,react,firebase,vercel&perline=7)
+![My Skills](https://skillicons.dev/icons?i=ts,postgres,cloudflare,aws,nextjs,prisma,react&perline=7)
 
 ### 🔗 Socials
 
