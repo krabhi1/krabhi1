@@ -2,9 +2,6 @@
 
 Full‑stack web developer passionate about building robust, user‑friendly applications and exploring practical AI/ML solutions. Open to **remote work** and **freelance opportunities**.
 
-### 🚀 Current Projects
-- **Locker**, **Paste**, **Kanban**, **Chat** 
-
 ### 💻 Skills & Interests
 - Backend systems design, API development, and database optimization.
 - UI/UX design with a focus on responsive, accessible layouts.
