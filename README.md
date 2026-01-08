@@ -6,7 +6,7 @@ Full‑stack web developer passionate about building robust, user‑friendly app
 - Backend systems design, API development, and database optimization.
 - UI/UX design with a focus on responsive, accessible layouts.
 - Exploring AI/ML for real‑world applications.
-- Occasional game development and creative coding.
+- Occasional game development
 
 ### 🛠 Tech Stack
 
@@ -17,7 +17,6 @@ Full‑stack web developer passionate about building robust, user‑friendly app
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/kr_abhi1)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/krabhi1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krabhi1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/krabhi1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/krabhi1)
 
 ### 🤝 Collaboration
